@@ -73,7 +73,6 @@ curl -v -x http://localhost:8080 https://www.asu.edu
 
 2. Visit any HTTP or HTTPS URL like:
    - `http://www.asu.edu/`
-   - `https://www.cs.princeton.edu/`
 
 > ⚠️ Note: HTTPS works because this proxy now supports CONNECT tunneling.
 
@@ -105,13 +104,6 @@ curl -v -x http://localhost:8080 https://www.asu.edu
 
 - Java 17+ (tested)
 - No external libraries required
-
----
-
-## 🙌 **Credits**
-
-- Based on an original C implementation idea.
-- Converted to Java and improved by [Your Name].
 
 ---
 
